@@ -8,6 +8,7 @@ class MyEveryDayPartnerApplicationTests {
 
 	@Test
 	void contextLoads() {
+		system.out.println("Hello");
 	}
 
 }
